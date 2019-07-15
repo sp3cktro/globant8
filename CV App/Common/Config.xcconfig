@@ -1,0 +1,7 @@
+// MARK: - Basic configurations
+AppName = Globant8
+AppVersion = 1.0
+AppBundleID = globant8.CV
+
+// MARK: - Base URL
+BaseURL = https:/api.myjson.com/bins/

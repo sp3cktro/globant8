@@ -1,0 +1,18 @@
+{
+    "studies": {
+        "titleSection": "Studies",
+        "studie": "I studied Computer engineering at the UNAM and been an active member of PROTECO (a students program oriented to  TICs)",
+        "rowsInSection": 1
+    },
+    "currentJob": {
+        "titleSection": "Globant",
+        "text": "In April 2019 I started my new career with Globant as iOS developer, i this time i been learning a lot of new thing of swift and git, also I been learning new patterns design that I even know.",
+        "rowsInSection": 1
+    },
+    "lastJob": {
+        "titleSection": "NetCS",
+        "resume": "I been working in NetCS in August 2018 to May 2019, in NetCS I learned a lot of things about Networking, I been working with Cisco and Juniper devices and monitoring all the network of BBVA and Banamex. I applied my knowledge of CCNA R&S to support the clients",
+        "rowsInSection": 1
+    },
+    "sections": 3
+}

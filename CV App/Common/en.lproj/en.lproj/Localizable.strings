@@ -1,0 +1,15 @@
+// MARK: - Alert controller strings
+"titleError" = "Error!";
+"messageError" = "There was an error loading the information";
+"refreshAction" = "Refresh";
+
+// MARK: - Title view strings
+"aboutMe" = "About me";
+"myCareer" = "My Career";
+"achivements" = "Achivements";
+
+// MARK: - Strings for labels
+"labelAge" = "Age: ";
+"labelPhone" = "Phone: ";
+"labelEmail" = "E-mail: ";
+"labelAboutMe" = "About me: ";
